@@ -1,0 +1,1 @@
+This project explores how businesses in retail and finance can use machine learning techniques to segment customers based on behavioral and demographic data. By applying RFM (Recency, Frequency, Monetary) analysis combined with K-Means clustering, the goal was to uncover actionable customer insights that inform smarter marketing strategies and operational decisions
